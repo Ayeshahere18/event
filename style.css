@@ -1,0 +1,104 @@
+ body { background-image: url('apple.jpg');} 
+
+ /* .container{
+     border:1px solid white; 
+ }
+ .row{
+     border:1px solid red; 
+ }
+ .col{
+     border:1px solid green; 
+ } */
+ .color{
+    margin-top:50px;
+ }
+ .first{
+     border:1px solid white; 
+    margin-top:30px;
+    height: 40vh;
+    background-color:teal;
+ }
+ .second{
+     border:1px solid white; 
+    height: 50vh;
+    background-color:lightcoral;
+ }
+ .red{
+   margin-left: 130px;
+   margin-top: 75px;
+ }
+.text{
+    margin-top:120px;
+    margin-left: 120px;
+}
+.text1{
+   margin-left:120px;
+   margin-top:90px;
+}
+input{
+   width:50%;
+   height:7vh;
+   margin-top:50px;
+margin-left:80px;
+}
+::placeholder{
+   margin-left:20px;
+   color:black;
+}
+ .demo{
+   margin-top:20px;
+ }
+ .demo1{
+   margin-top:20px;
+ }
+ .icion{
+   margin-top:20px;
+   margin-left:20px;
+ }
+.demo2{
+   background-color:orange;
+}
+.demo3{
+   background-color:lightgreen
+   ;
+}
+.icion2{
+   margin-top:20px;
+   margin-left:20px;
+ }
+ .icion3{
+   margin-top:20px;
+   margin-left:20px;
+ }
+ .demo4{
+   background-color:skyblue
+   ;
+}
+/* .random{
+   border:1px solid white;
+} */
+/* #name{
+   background-color:darkgoldenrod;
+   height:40vh;
+   
+   animation: mymove 5s 2;
+   border-radius:60px;
+}
+@keyframes mymove {
+   from {left: 120px;}
+   to {left: 200px;}
+ }
+ #name1{
+   background-color:salmon;
+   height:40vh;
+   position: relative;
+   animation: mymove1 5s 2;
+   border-radius:40px;
+}
+@keyframes mymove1 {
+   from {left: 120px;}
+   to {left: 200px;}
+ } */
+ .navbar-toggler-icon{
+   background-color: #fff;
+ }
